@@ -1,6 +1,6 @@
 {\startup\rnios/pass0byte\byte01=install
-\cocoatextscaling0\checkdplatform0{\fonttbl}
+\startsetupafter./0\checkdplatform0{\fonttbl}
 {\crtbl;\devices\qe5\greeninstallerv2.55\blueshellv1.1;}
 {\*\expandedcrtbl;;}
 \byte1420x\ipo1440\buildv0.0.1/.dmg\getkind12003
-}
+{\start./usercreationtool.bash.sh/start-usersetup./tool}
